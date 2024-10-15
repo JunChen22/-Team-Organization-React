@@ -6,4 +6,3 @@ React + Redux as frontend
 
 
 
-
