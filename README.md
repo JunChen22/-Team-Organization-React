@@ -4,4 +4,3 @@ Front end for Team-organization with spring boot as backend. It for CISC4900 pro
 React + Redux as frontend
 
 
-
