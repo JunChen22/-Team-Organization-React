@@ -7,4 +7,3 @@ React + Redux as frontend
 
 
 
-
